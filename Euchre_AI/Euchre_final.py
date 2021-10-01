@@ -4,6 +4,14 @@ from tkinter import ttk
 from PIL import ImageTk, Image
 
 
+#_______________________________________________________________________________________________________________________________________________________________________________
+
+#PLEASE NOTE:
+
+#This is the first full coding project that I ever did, so it is not well organized! I have learned a lot about Object Oriented Programming since making this project, and 
+#would definitely organize it differently if I was re-making this project now. 
+
+#_______________________________________________________________________________________________________________________________________________________________________________
 
 class Window(Tk):		
     def __init__(self):
